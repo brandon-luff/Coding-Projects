@@ -4,6 +4,8 @@
 
 To create a Python class that simulates a bicycle and its owner, encapsulating properties and behaviors for both.
 
+[Files Included in Repository]
+
 ### Skills Learned
 
 - Object-Oriented Programming (OOP)
@@ -38,6 +40,8 @@ To create a Python class that simulates a bicycle and its owner, encapsulating p
 ## Objective
 
 To create a Python script that retrieves and displays NHL player statistics using an API.
+
+[Files Included in Repository]
 
 ### Skills Learned
 
